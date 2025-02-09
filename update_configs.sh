@@ -12,6 +12,7 @@ FILES=(
     "colors.sh"
     ".tmux.conf"
     ".zshrc"
+    ".emacs"
 )
 
 if [ ! -d "$DESTINATION" ]; then
